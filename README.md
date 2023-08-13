@@ -1,5 +1,5 @@
 # 4-bit-signed-number-multiplication-using-Booth-Multiplier-Algorithm
-Implemented 3 operands(1 MSB) Booth Multiplication Algorithm 
+Implemented 3 operands(1 MSB) Booth Multiplication Algorithm .
 Booth's Multiplication Algorithm is a commonly used algorithm for multiplication of two signed numbers.
 To implement this algorithm "valid bit" is being generated which becomes high when valid result will obtained.
 The Booth Multiplier Algorithm implemented in this format can be implemented on FPGA devices.
